@@ -31,7 +31,7 @@
     </div>
 </div>
 <footer style="color:white;font-weight:500;text-align:center;position:fixed;bottom:0;left:auto;right:auto">
-    <p>Made with ❤ by Kanak Yadav</p>
+    <p>Made with ❤ by Adrika Tiwari</p>
 </footer>
 </fragment>
 </template>
